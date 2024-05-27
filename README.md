@@ -44,9 +44,6 @@ Each Monte Carlo simulation is implemented in a separate C file. You can compile
    ```
 
    Follow any additional instructions provided in the program's comments or output.
-
-Sure! Here's an extended section for the option pricing example in the README.md file:
-
 ---
 
 ## Examples
