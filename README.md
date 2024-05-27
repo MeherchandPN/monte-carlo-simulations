@@ -76,8 +76,6 @@ To price a European put option, modify the `option_type` variable in the source 
 
 ---
 
-Feel free to adjust the instructions based on any specific details or requirements of the option pricing example.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
