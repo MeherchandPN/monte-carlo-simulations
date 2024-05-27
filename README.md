@@ -83,5 +83,3 @@ Feel free to adjust the instructions based on any specific details or requiremen
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the README.md file further based on the specific details of your Monte Carlo simulations and any additional information you want to provide to users.
